@@ -1,0 +1,18 @@
+# Local tools and downloaded dependencies
+.tools/
+.m2/
+.venv/
+
+# Generated builds, experiment outputs and temporary files
+target/
+results/
+tmp/
+dist/
+__pycache__/
+*.pyc
+
+# Local editor and operating-system files
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
